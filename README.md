@@ -38,6 +38,8 @@ Y axis and the Projected Goals Amount on the X axis.   The chart showed the perc
 
 ![](Resources/OutcomeGoals.png)
 
+![](Resourses/Theater_Outcomes_vs_Launch_Date.png)
+
 The most difficult challenge of this project was setting up the correct foumulates for the COUNTIFS().   This took some time to format. 
 Since the formula used columns for different sheets, making sure to select correct columns was important.   If the first cell was off, 
 copying the cell to the remaining cell let to errors in final totals.
