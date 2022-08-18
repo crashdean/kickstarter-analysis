@@ -67,8 +67,9 @@ This is a visual consequence of the data type being charted.
 ### Limitations of the Dataset
 
 Some of the limitations of the data set are we do not have any socioeconomic data to determine if there is a correlation between pledged amount
-and income levels.
+and income levels.   Also, we do not know if there were other economic factors affecting the fund raiser such as a recession in the economy.
 
 ### Other possible Tables and Charts
 
-
+Other possible tables and charts could show the relationship between Goal column vs Pledged column.   We could also compare the Pledged amount vs
+other subcategories.   Do other subcategories have a greater a less success rate .
