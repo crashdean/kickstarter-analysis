@@ -42,6 +42,10 @@ goal ranges were complete, the Total Projects column was  populated using the SU
 Outcomes vs Based on Goals.   A line chart was again the best choise for displaying the data.  The goal outcome percent on the Y axis 
 and the Projected Goals Amount on the X axis.   The chart showed the percentage diffences for the three categories.
 
+The most difficult challenge of this project was setting up the correct foumulates for the COUNTIFS().   This took some time to formate. 
+Since the formula used columns for different sheets, making sure to select correct columns was important.   If the first cell was off, 
+copying the cell to the remaining cell let to errors in final totals.
+
      
 
 
