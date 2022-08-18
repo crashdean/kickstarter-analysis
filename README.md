@@ -3,37 +3,37 @@ Analysis of Kickstarter for new theater play.
 # Kickstarting with Excel
 
 ## Overview of Project  
-    The Kickstarter analysis project was designed to help a up and coming play wright 
-Louise determine if her play "Fever" will be successful in raising funds.   The overall 
+    The Kickstarter analysis project was designed to help a up-and-coming play wright 
+Louise determine if her play Fever will be successful in raising funds.   The overall 
 budget for the play was set at $10,000.   The data used for the analysis will provide a 
 better picture of success or failed rate compared with other fund raisers.   We can then 
 see when is the best time to start a fund raiser and the success of the projected budget.
 ### Purpose
 
 ## Analysis and Challenges
-     The analysis for this assignment were created using existing data from kickstarter fund raisers existing 
-in a Excel spreadsheet.   We used the following categories for our analysis.
+       The following categories were taken from the Kickstarter data and used for further analysis.
 
 * Goals
 * Outcomes
 * Launched_At
+* Date Created Conversion
 * Category and Subcategory
 
-For the first analysis, the outcome and launch date were used to create a PivotTable.   In this PivotTable,  the columns 
-field were populated with the outcome column.   The rows field with populated using the date created 
-column; which was converted from Excel date to standard date first.   Outcomes was selected for value, and 
- the table fitlered using parent category and years after ungrouping it form launch date.   The PivotTable was then 
-filtered for the theater subcategory only and all years were used for the launch date.   A PivotChart was then 
-created using the finished PivotTable.  A line chart was choosen to represent the data the clearest. Theater Outcomes 
-was used on the Y axis and Month Launches was used on the A axis.   The PivotChart showed which months had a greater 
-success for fund raising.
+For the first analysis, the Outcomes and Date Created Conversion columns were selected to create a PivotTable.   In this PivotTable,  
+the columns field was populated with the Outcomes and the rows field was populated using the Date Created Conversion column. The Date 
+Created conversioncolumn was converted from the Launch Date column. Since the date was in Excel date formate, it was converted to 
+standard date to be more useful.   Outcomes was selected for value, and the table fitlered using the Parent Category and Years.   The 
+Parent category was created from the Category and Subcategory column of the Kickstartersheet. Then it was filtered furhter to create a 
+Parent and Subcategory column.    The Date Created Conversion was Ungrouped to find the month of the launched fund raiser.  The PivotTable
+was then filtered for thetheater subcategory only and all years were used for the launch date.   A PivotChart was then created using the 
+finished PivotTable.  A line chart was choosen to represent the data.   
 
 
-For the second analysis,  a new Excel sheet was created.   In the first column, pledge amount ranges were created.  
+For the second analysis, a new sheet named Outcomes Based on Goals was created.   In the first column named Goal, pledge amount ranges were created.  
 More columns were added to reflect the  Successful , Failed, and Canceled projects along with the sum of all project categories
 and percentages of each category.   We used the COUNTIFS() formula to calculate totals for the goal ranges.   Once the 
 goal ranges were complete, the Total Projects column was  populated using the SUM() formula.  A LineChart was then created to show  
-Outcomes vs Based on Goals.   A line chart was again the best choise for displaying the data.  The goal outcome percent on the Y axis 
+Projected Goals Amount vs Gaol Outcome Percent.   A line chart was again the best choise for displaying the data.  The Goal Outcome Percent on the Y axis 
 and the Projected Goals Amount on the X axis.   The chart showed the percentage diffences for the three categories.
 
 The most difficult challenge of this project was setting up the correct foumulates for the COUNTIFS().   This took some time to formate. 
