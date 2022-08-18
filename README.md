@@ -8,11 +8,8 @@ Analysis of Kickstarter for new theater play.
     The Kickstarter analysis project was designed to help a up and coming play wright 
 Louise determine if her play "Fever" will be successful in raising funds.   The overall 
 budget for the play was set at $10,000.   The data used for the analysis will provide a 
-better idea if the play "Fever" has the same or greater success rate than previous fund 
-raisers.   Through the use of Excel, we can manipulate the data of the previous fund 
-raisers and chart the outcome data to success and also the outcome percent to projected 
-amount of funds raised.   We can then see when is the best time to start a fund raiser 
-and the success of the projected budget.
+better picture of success or failed rate compared with other fund raisers.   We can then 
+see when is the best time to start a fund raiser and the success of the projected budget.
 ### Purpose
 
 ## Analysis and Challenges
