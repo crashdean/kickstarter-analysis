@@ -3,7 +3,9 @@ Analysis of Kick Starter for new theater play.
 # Kickstarting with Excel
 
 ## Overview of Project
-     The Kick Starter analysis project was designed to help a up and coming play wright 
+    
+    
+    The Kick Starter analysis project was designed to help a up and coming play wright 
 Louise determine if her play "Fever" will be successful in raising funds.   The overall 
 budget for the play was set at $10,000.   The data used for the analysis will provide a 
 better idea if the play "Fever" has the same or greater success rate than previous fund 
