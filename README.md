@@ -25,12 +25,18 @@ in a Excel spreadsheet.   We used the following categories for our analysis.
 * Launched_At
 * Category and Subcategory
 
-For the first analysis, we used outcome and launch date to create a PivotTable.   In this PivotTable, we 
-populated the columns field with the outcome column.   The rows field with populated using the date created 
-column; which we converted from Excel date to standard date first.   Outcomes was selected for value, and we 
-fitlered the table using parent category and years after ungrouping it form launch date.   The PivotTable was then 
+For the first analysis, the outcome and launch date to create a PivotTable.   In this PivotTable,  the columns 
+field were populated with the outcome column.   The rows field with populated using the date created 
+column; which was converted from Excel date to standard date first.   Outcomes was selected for value, and 
+ the table fitlered using parent category and years after ungrouping it form launch date.   The PivotTable was then 
 filtered for the theater subcategory only and all years were used for the launch date.   A PivotChart was the 
 created using the finished PivotTable.   The PivotChart showed which months had a greater success for fund raising.
+
+
+For the second analysis,  a new Excel sheet was created.   In the first column, pledge amount ranges were created.  
+More columns were added to reflect the  Successful , Failed, and Canceled projects along with the sum of all project categories
+and percentages of each category.   We used the COUNTIFS() formula to calculate totals for the goal ranges.   Once the 
+goal ranges were complete, the Total Projects column was  populated using the SUM() formula.       
 
      
 
