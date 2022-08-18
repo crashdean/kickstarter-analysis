@@ -19,10 +19,10 @@ and the success of the projected budget.
 
      The analysis for this assignment was ceated using existing data from the previous kickstarters.   
 The data was filtered form serveral existing catagories. 
-..*Projected Goals
-..*Outcomes
-..*Launched Date
-..*Category & Subcategory
+..*Projected Goals.
+..*Outcomes.
+..*Launched Date.
+..*Category & Subcategory.
      
 
 ### Analysis of Outcomes Based on Launch Date
