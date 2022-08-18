@@ -53,8 +53,8 @@ copying the cell to the remaining cell let to errors in final totals.
  
  One conclusion form the Theater Outcomes vs Launch Date chart is that the best month for a fund raiser would be May.   The data didn't 
  account for why this was true, but furhter analysis could be completed.  The second conclution would be the close correlation between the 
- Successful and the Failed lines.   They seem to follow the same trend of the greatest month being May.   Although the Failed line also had 
- a high rate during the month of October. 
+ Successful and the Failed lines.   They seem to follow the same trend of the greatest month being May but with the failed line having a 
+ lower frequency.   
  
 
 ### Analysis of Outcomes Based on Goals
@@ -66,6 +66,9 @@ This is a visual consequence of the data type being charted.
 
 ### Limitations of the Dataset
 
-Some of the limitations of the data set are we do not have any socioeconomic data to determine if there is a correlation.   
+Some of the limitations of the data set are we do not have any socioeconomic data to determine if there is a correlation between pledged amount
+and income levels.
 
-## Other possible Tables and Charts
+### Other possible Tables and Charts
+
+
