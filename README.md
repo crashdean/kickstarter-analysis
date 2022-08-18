@@ -17,13 +17,23 @@ and the success of the projected budget.
 
 ## Analysis and Challenges
 
-     The analysis for this assignment was ceated using existing data from the previous kickstarters.   
-The data was filtered form serveral existing catagories. 
-*Projected Goals.
-*Outcomes.
-*Launched Date.
-*Category & Subcategory.
+     The analysis for this assignment were created using existing data from kickstarter fund raisers existing 
+in a Excel spreadsheet.   We used the following categories for our analysis.
+
+* Goals
+* Outcomes
+* Launched_At
+* Category and Subcategory
+
+For the first analysis, we used outcome and launch date to create a PivotTable.   In this PivotTable, we 
+populated the columns field with the outcome column.   The rows field with populated using the date created 
+column; which we converted from Excel date to standard date first.   Outcomes was selected for value, and we 
+fitlered the table using parent category and years after ungrouping it form launch date.   The PivotTable was then 
+filtered for the theater subcategory only and all years were used for the launch date.   A PivotChart was the 
+created using the finished PivotTable.   The PivotChart showed which months had a greater success for fund raising.
+
      
+
 
 ### Analysis of Outcomes Based on Launch Date
 
