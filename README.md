@@ -64,6 +64,8 @@ and the second would be the range of $35,000 t0 $40,000.   A second conclution f
 percentage successful and the percentage Failed.   This is true due to the fact that the total for both lines are the sum of the percentages.  
 This is a visual consequence of the data type being charted.  
 
-### Challenges and Difficulties Encountered
+### Limitations of the Dataset
 
-## Results
+Some of the limitations of the data set are we do not have any socioeconomic data to determine if there is a correlation.   
+
+## Other possible Tables and Charts
