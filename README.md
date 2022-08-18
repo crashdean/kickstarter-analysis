@@ -17,8 +17,8 @@ and the success of the projected budget.
 
 ## Analysis and Challenges
 
-     The analysis for this assignment was ceated using existing data from the previous 
-kickstarters.   The data was filtered form serveral existing catagories. 
+     The analysis for this assignment was ceated using existing data from the previous kickstarters.   
+The data was filtered form serveral existing catagories. 
 ..*Projected Goals
 ..*Outcomes
 ..*Launched Date
