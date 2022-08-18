@@ -11,7 +11,7 @@ see when is the best time to start a fund raiser and the success of the projecte
 ### Purpose
 
 ## Analysis and Challenges
-       The following categories were taken from the Kickstarter data and used for further analysis.
+       The following categories were taken from the Kickstarter data sheet and used for further analysis.
 
 * Goals
 * Outcomes
