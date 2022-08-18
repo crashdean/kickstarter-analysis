@@ -2,9 +2,7 @@
 Analysis of Kickstarter for new theater play.
 # Kickstarting with Excel
 
-## Overview of Project
-    
-    
+## Overview of Project  
     The Kickstarter analysis project was designed to help a up and coming play wright 
 Louise determine if her play "Fever" will be successful in raising funds.   The overall 
 budget for the play was set at $10,000.   The data used for the analysis will provide a 
@@ -13,7 +11,6 @@ see when is the best time to start a fund raiser and the success of the projecte
 ### Purpose
 
 ## Analysis and Challenges
-
      The analysis for this assignment were created using existing data from kickstarter fund raisers existing 
 in a Excel spreadsheet.   We used the following categories for our analysis.
 
@@ -47,7 +44,6 @@ copying the cell to the remaining cell let to errors in final totals.
 
 
 ### Analysis of Outcomes Based on Launch Date
- 
  One conclusion form the Theater Outcomes vs Launch Date chart is that the best month for a fund raiser would be May.   The data didn't 
  account for why this was true, but furhter analysis could be completed.  The second conclution would be the close correlation between the 
  Successful and the Failed lines.   They seem to follow the same trend of the greatest month being May but with the failed line having a 
@@ -55,18 +51,14 @@ copying the cell to the remaining cell let to errors in final totals.
  
 
 ### Analysis of Outcomes Based on Goals
-
 One conclution would show that there are two strong ranges for the amount pleged to be successful.   The first would be the $1000 and less,
 and the second would be the range of $35,000 t0 $40,000.   A second conclution from the line chart shows an inverse relationship between the
 percentage successful and the percentage Failed.   This is true due to the fact that the total for both lines are the sum of the percentages.  
 This is a visual consequence of the data type being charted.  
 
 ### Limitations of the Dataset
-
 Some of the limitations of the data set are we do not have any socioeconomic data to determine if there is a correlation between pledged amount
 and income levels.   Also, we do not know if there were other economic factors affecting the fund raiser such as a recession in the economy.
-
 ### Other possible Tables and Charts
-
 Other possible tables and charts could show the relationship between Goal column vs Pledged column.   We could also compare the Pledged amount vs
 other subcategories.   Do other subcategories have a greater a less success rate .
