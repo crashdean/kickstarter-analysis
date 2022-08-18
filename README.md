@@ -25,7 +25,7 @@ in a Excel spreadsheet.   We used the following categories for our analysis.
 * Launched_At
 * Category and Subcategory
 
-For the first analysis, the outcome and launch date to create a PivotTable.   In this PivotTable,  the columns 
+For the first analysis, the outcome and launch date were used to create a PivotTable.   In this PivotTable,  the columns 
 field were populated with the outcome column.   The rows field with populated using the date created 
 column; which was converted from Excel date to standard date first.   Outcomes was selected for value, and 
  the table fitlered using parent category and years after ungrouping it form launch date.   The PivotTable was then 
@@ -50,8 +50,19 @@ copying the cell to the remaining cell let to errors in final totals.
 
 
 ### Analysis of Outcomes Based on Launch Date
+ 
+ One conclusion form the Theater Outcomes vs Launch Date chart is that the best month for a fund raiser would be May.   The data didn't 
+ account for why this was true, but furhter analysis could be completed.  The second conclution would be the close correlation between the 
+ Successful and the Failed lines.   They seem to follow the same trend of the greatest month being May.   Although the Failed line also had 
+ a high rate during the month of October. 
+ 
 
 ### Analysis of Outcomes Based on Goals
+
+One conclution would show that there are two strong ranges for the amount pleged to be successful.   The first would be the $1000 and less,
+and the second would be the range of $35,000 t0 $40,000.   A second conclution from the line chart shows an inverse relationship between the
+percentage successful and the percentage Failed.   This is true due to the fact that the total for both lines are the sum of the percentages.  
+This is a visual consequence of the data type being charted.  
 
 ### Challenges and Difficulties Encountered
 
