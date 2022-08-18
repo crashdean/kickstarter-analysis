@@ -28,6 +28,12 @@ Parent and Subcategory column.    The Date Created Conversion was Ungrouped to f
 was then filtered for thetheater subcategory only and all years were used for the launch date.   A PivotChart was then created using the 
 finished PivotTable.  A line chart was choosen to represent the data.   
 
+![](Resources/Theater_Outcomes_PivotChart.png)
+
+![](Resources/Theater_Outcomes_vs_Launch_Date.png)
+
+
+
 
 For the second analysis, a new sheet named Outcomes Based on Goals was created.   In the first column named Goal, pledge amount ranges 
 were created.  More columns were added to reflect the  Successful , Failed, and Canceled projects along with the sum of all project 
