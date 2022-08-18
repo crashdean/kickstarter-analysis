@@ -52,7 +52,7 @@ copying the cell to the remaining cell let to errors in final totals.
 
 ### Analysis of Outcomes Based on Goals
 One conclution would show that there are two strong ranges for the amount pleged to be successful.   The first would be the $1000 and less,
-and the second would be the range of $35,000 t0 $40,000.   A second conclution from the line chart shows an inverse relationship between the
+and the second would be the range of $35,000 to $40,000.   A second conclution from the line chart shows an inverse relationship between the
 percentage successful and the percentage Failed.   This is true due to the fact that the total for both lines are the sum of the percentages.  
 This is a visual consequence of the data type being charted.  
 
