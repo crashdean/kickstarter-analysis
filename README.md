@@ -21,7 +21,7 @@ The following categories were taken from the Kickstarter data sheet and used for
 
 For the first analysis, the Outcomes and Date Created Conversion columns were selected to create a PivotTable.   In this PivotTable,  
 the columns field was populated with the Outcomes and the rows field was populated using the Date Created Conversion column. The Date 
-Created conversioncolumn was converted from the Launch Date column. Since the date was in Excel date formate, it was converted to 
+Created conversion column was converted from the Launch Date column. Since the date was in Excel date formate, it was converted to 
 standard date to be more useful.   Outcomes was selected for value, and the table fitlered using the Parent Category and Years.   The 
 Parent category was created from the Category and Subcategory column of the Kickstartersheet. Then it was filtered furhter to create a 
 Parent and Subcategory column.    The Date Created Conversion was Ungrouped to find the month of the launched fund raiser.  The PivotTable
