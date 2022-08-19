@@ -43,7 +43,7 @@ as the criteria_range1, the lower goal range as the criterial, Outcomes column w
 Outcomes column.  This formula was copied to all Number Successful Column and corrected for that cells goal range.  That same formula was 
 used to calculatethe Number Failed and Number Cancelled columns with small changes to the criteria_range2.   Once the goal ranges were 
 complete, the Total Projects column was populated using the SUM() formula.  This formula added the three Outcomes cells across the Goals row.
-A LineChart wasthen created to show  Projected Goals Amount vs Gaol Outcome Percent.   A line chart was again the best choise for displaying
+A LineChart was then created to show  Projected Goals Amount vs Gaol Outcome Percent.   A line chart was again the best choise for displaying
 the data.  The Goal Outcome Percent on the Y axis and the Projected Goals Amount on the X axis.   The chart showed the percentage diffences 
 for the three categories.
 
