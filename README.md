@@ -2,14 +2,14 @@
 Analysis of Kickstarter data using Excel for new theater play called Fever.
 
 ## Overview of Project  
-    The Kickstarter analysis project was designed to help a up-and-coming play wright 
+The Kickstarter analysis project was designed to help a up-and-coming play wright 
 Louise determine if her play Fever will be successful in raising funds.   The overall 
 budget for the play was set at $10,000.   The data used for the analysis will provide a 
 better picture of success or failed rate compared with other fund raisers.   We can then 
 see when is the best time to start a fund raiser and the success of the projected budget.
 
-## Analysis and Challenges
-       The following categories were taken from the Kickstarter data sheet and used for further analysis.
+## Analysis and Challenge  
+The following categories were taken from the Kickstarter data sheet and used for further analysis.
 
 * Goals
 * Outcomes
@@ -63,10 +63,10 @@ Since the formula used columns for different sheets, making sure to select corre
 copying the cell to the remaining cell let to errors in final totals.
 
 ### Analysis of Outcomes Based on Launch Date
- One conclusion form the Theater Outcomes vs Launch Date chart is that the best month for a fund raiser would be May.   The data didn't 
- account for why this was true, but furhter analysis could be completed.  The second conclution would be the close correlation between the 
- Successful and the Failed lines.   They seem to follow the same trend of the greatest month being May but with the failed line having a 
- lower frequency.   
+One conclusion form the Theater Outcomes vs Launch Date chart is that the best month for a fund raiser would be May.   The data didn't 
+account for why this was true, but furhter analysis could be completed.  The second conclution would be the close correlation between the 
+Successful and the Failed lines.   They seem to follow the same trend of the greatest month being May but with the failed line having a 
+lower frequency.   
  
 
 ### Analysis of Outcomes Based on Goals
