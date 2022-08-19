@@ -8,7 +8,6 @@ Louise determine if her play Fever will be successful in raising funds.   The ov
 budget for the play was set at $10,000.   The data used for the analysis will provide a 
 better picture of success or failed rate compared with other fund raisers.   We can then 
 see when is the best time to start a fund raiser and the success of the projected budget.
-### Purpose
 
 ## Analysis and Challenges
        The following categories were taken from the Kickstarter data sheet and used for further analysis.
@@ -63,9 +62,6 @@ for the three categories.
 The most difficult challenge of this project was setting up the correct foumulates for the COUNTIFS().   This took some time to format. 
 Since the formula used columns for different sheets, making sure to select correct columns was important.   If the first cell was off, 
 copying the cell to the remaining cell let to errors in final totals.
-
-     
-
 
 ### Analysis of Outcomes Based on Launch Date
  One conclusion form the Theater Outcomes vs Launch Date chart is that the best month for a fund raiser would be May.   The data didn't 
