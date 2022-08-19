@@ -28,7 +28,7 @@ Parent and Subcategory column.    The Date Created Conversion was Ungrouped to f
 was then filtered for thetheater subcategory only and all years were used for the launch date.   A PivotChart was then created using the 
 finished PivotTable.  A line chart was choosen to represent the data.   
 
-![](Resources/Theater_Outcomes_PivotChart.png)
+![](Resources/Outcomes_PivotChart.png)
 
 ![](Resources/Theater_Outcomes_vs_Launch_Date.png)
 
