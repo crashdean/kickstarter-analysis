@@ -38,10 +38,13 @@ finished PivotTable.  A line chart was choosen to represent the data.
 
 For the second analysis, a new sheet named Outcomes Based on Goals was created.   In the first column named Goal, pledge amount ranges 
 were created.  More columns were added to reflect the  Successful , Failed, and Canceled projects along with the sum of all project 
-categoriesand percentages of each category.   We used the COUNTIFS() formula to calculate totals for the goal ranges.   Once the goal 
-ranges were complete, the Total Projects column was  populated using the SUM() formula.  A LineChart was then created to show  Projected 
-Goals Amount vs Gaol Outcome Percent.   A line chart was again the best choise for displaying the data.  The Goal Outcome Percent on the 
-Y axis and the Projected Goals Amount on the X axis.   The chart showed the percentage diffences for the three categories.
+categoriesand percentages of each category.   We used the COUNTIFS() - see COUNTIFS formula below-   formula to calculate totals for the
+goal ranges.   Once the goal ranges were complete, the Total Projects column was  populated using the SUM() formula.  A LineChart was
+then created to show  Projected Goals Amount vs Gaol Outcome Percent.   A line chart was again the best choise for displaying the data.  
+The Goal Outcome Percent on the Y axis and the Projected Goals Amount on the X axis.   The chart showed the percentage diffences for 
+the three categories.
+
+         =COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!F:F,"SUCCESSFUL",Kickstarter!D:D,"<=4999",Kickstarter!R:R,"PLAYS")
 
 ![](Resources/OutcomeGoals.png)
 
