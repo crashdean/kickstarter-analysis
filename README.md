@@ -19,6 +19,8 @@ see when is the best time to start a fund raiser and the success of the projecte
 * Date Created Conversion
 * Category and Subcategory
 
+####Theater Outcomes by Launch Date
+
 For the first analysis, the Outcomes and Date Created Conversion columns were selected to create a PivotTable.   In this PivotTable,  
 the columns field was populated with the Outcomes and the rows field was populated using the Date Created Conversion column. The Date 
 Created conversioncolumn was converted from the Launch Date column. Since the date was in Excel date formate, it was converted to 
