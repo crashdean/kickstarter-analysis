@@ -26,9 +26,10 @@ standard date to be more useful.   Outcomes was selected for value, and the tabl
 Parent category was created from the Category and Subcategory column of the Kickstartersheet. Then it was filtered furhter to create a 
 Parent and Subcategory column.    The Date Created Conversion was Ungrouped to find the month of the launched fund raiser.  The PivotTable
 was then filtered for thetheater subcategory only and all years were used for the launch date.   A PivotChart was then created using the 
-finished PivotTable.  A line chart was choosen to represent the data.   
+finished PivotTable.  A line chart was choosen to represent the data.  
 
-![](Resources/Theater_Outcomes_PivotChart.png)
+
+![](Resources/Theater_Outcomes_ PivotChart.png)
 
 ![](Resources/Theater_Outcomes_vs_Launch_Date.png)
 
