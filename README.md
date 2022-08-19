@@ -1,6 +1,5 @@
 # kickstarter-analysis
-Analysis of Kickstarter data for new theater play caleed Fever.
-# Kickstarting with Excel
+Analysis of Kickstarter data using Excel for new theater play called Fever.
 
 ## Overview of Project  
     The Kickstarter analysis project was designed to help a up-and-coming play wright 
