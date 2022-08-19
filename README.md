@@ -29,7 +29,7 @@ was then filtered for thetheater subcategory only and all years were used for th
 finished PivotTable.  A line chart was choosen to represent the data.  
 
 
-![](Resources/Theater_Outcomes_ PivotChart.png)
+![](Resources/Theater_Outcomes_PivotChart.png)
 
 ![](Resources/Theater_Outcomes_vs_Launch_Date.png)
 
