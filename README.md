@@ -82,4 +82,4 @@ Some of the limitations of the data set are we do not have any socioeconomic dat
 and income levels.   Also, we do not know if there were other economic factors affecting the fund raiser such as a recession in the economy.
 ### Other possible Tables and Charts
 Other possible tables and charts could show the relationship between Goal column vs Pledged column.   We could also compare the Pledged amount vs
-other subcategories.   Do other subcategories have a greater a less success rate .
+other subcategories.   Comparing these subcategories could  have a greater a less success rate.
