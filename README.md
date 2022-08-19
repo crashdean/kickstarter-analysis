@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Analysis of Kickstarter for new theater play.
+Analysis of Kickstarter data for new theater play caleed Fever.
 # Kickstarting with Excel
 
 ## Overview of Project  
